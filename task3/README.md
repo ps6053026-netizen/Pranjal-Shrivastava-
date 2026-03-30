@@ -1,0 +1,6 @@
+For Part A of this module, I selected HackerRank to practice my coding skills. Because I am focusing heavily on mastering Python and building a strong foundation in Data Structures and Algorithms, HackerRank’s Python domain was the ideal starting point. I completed the introductory challenges, which reinforced my foundational syntax knowledge and provided a tangible completion badge. Moving forward, this platform will be crucial for my continuous DSA practice and technical interview preparation.
+
+For Part B, I utilized Google Forms and Google Sheets to build a Digital Literacy Awareness Quiz. As a Digital Ambassador, mastering Google Workspace tools is essential for seamless collaboration and efficient data collection. The form allows me to easily assess the baseline digital skills of my batchmates, while the linked Sheet automatically aggregates the responses for quick analysis. Utilizing cloud-based collaboration tools like these will significantly streamline group projects, peer feedback sessions, and organizational tasks throughout my engineering degree, allowing me to focus more on problem-solving and less on administrative overhead.
+
+
+https://docs.google.com/forms/d/e/1FAIpQLScSfKSf0AgeaVuB9G2bT46bMkRDmoJbnythnkWN43N-2wzAMw/viewform?usp=publish-editor

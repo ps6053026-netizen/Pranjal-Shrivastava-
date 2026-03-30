@@ -1,0 +1,5 @@
+Digital Communication Scenario
+
+A common, real-world example of poor digital communication is a student sending an email to a recruiter using a vague subject line like "Hello" and casual text-speak in the body (e.g., "plz let me knw about internships thx"). In this scenario, the recruiter likely skipped the email entirely because it lacked context and professionalism, costing the student a valuable opportunity.
+
+This problem could have been easily avoided by applying basic email etiquette. The student should have used a clear subject line (e.g., "Inquiry: Summer Software Engineering Internship"). Furthermore, the body should have included a formal salutation, full sentences without slang, a brief explanation of their qualifications, and a professional sign-off. Treating every professional email as a formal document ensures the recipient takes the sender seriously.
